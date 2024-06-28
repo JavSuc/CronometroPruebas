@@ -18,3 +18,4 @@ C:\Users\PC-Javier\source\repos\JavSuc\CronometroPruebas\CronometroPruebas\obj\D
 C:\Users\PC-Javier\source\repos\JavSuc\CronometroPruebas\CronometroPruebas\obj\Debug\net6.0-windows\CronometroPruebas.pdb
 C:\Users\PC-Javier\source\repos\JavSuc\CronometroPruebas\CronometroPruebas\obj\Debug\net6.0-windows\CronometroPruebas.genruntimeconfig.cache
 C:\Users\PC-Javier\source\repos\JavSuc\CronometroPruebas\CronometroPruebas\obj\Debug\net6.0-windows\ref\CronometroPruebas.dll
+C:\Users\PC-Javier\source\repos\JavSuc\CronometroPruebas\CronometroPruebas\obj\Debug\net6.0-windows\CronometroPruebas.sourcelink.json
